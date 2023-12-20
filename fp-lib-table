@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LED_ws2812b")(type "KiCad")(uri "${KIPRJMOD}/LED_ws2812b.pretty")(options "")(descr ""))
+)
